@@ -15,7 +15,7 @@ html {
   font-family: nunito;
 }
 body {
-  background-image: url(http://uiwebsoft.com/justlog/login-one/images/login-bg2.jpg);
+  background-image: url(../img/login-bg2.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: right bottom;
@@ -94,6 +94,8 @@ form {
   background-color: white;
   width: 500px;
   text-align: center;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 form > * {
   display: block;

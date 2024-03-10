@@ -28,7 +28,7 @@ article {
   border-radius: 5px;
 }
 article:hover {
-  border: 1px solid red;
+  outline: 1px solid red;
 }
 h3 {
   margin-left: 10px;
